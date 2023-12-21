@@ -1,21 +1,9 @@
 <div id="header" align="center">
- Hey there  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
-
-<div id="header" align="center">
 <a href="https://stackoverflow.com/users/9559655/flinck-clissan">
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/9559655?color=F47F24&label=Stack%20Overflow"></a>
 <a href="https://www.youtube.com/@veaxvoid/videos">
 <img src="https://img.shields.io/youtube/channel/views/UCT0YI14vECRjM4A8dc4d5Ww" ></a>
 </div>
-
-
-
-
-
-- 🔭 I’m currently working on NeRF research for dynamic human body reconstructions
-- 📫 How to reach me: caxaev95@gmail.com
 
 ## Projects highlights
 |Repository|Preview|Description|
@@ -29,6 +17,7 @@
 | [Image-sort](https://github.com/ivanvoid/Image-sort)|<div align="center"><img src="https://github.com/ivanvoid/Image-sort/raw/master/.github/info.gif" width="200"/></div>| Sort all pixels in image by value |
 
 ---
+- 📫 caxaev95[at]gmail.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ivanvoid&style=flat-square&color=blue" alt=""/>
