@@ -1,10 +1,3 @@
-<div id="header" align="center">
-<a href="https://stackoverflow.com/users/9559655/flinck-clissan">
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/9559655?color=F47F24&label=Stack%20Overflow"></a>
-<a href="https://www.youtube.com/@veaxvoid/videos">
-<img src="https://img.shields.io/youtube/channel/views/UCT0YI14vECRjM4A8dc4d5Ww" ></a>
-</div>
-
 ## Projects highlights
 |Repository|Preview|Description|
 |-|-|-|
@@ -18,6 +11,13 @@
 
 ---
 - 📫 caxaev95[at]gmail.com
+
+<div id="header" align="center">
+<a href="https://stackoverflow.com/users/9559655/flinck-clissan">
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/9559655?color=F47F24&label=Stack%20Overflow"></a>
+<a href="https://www.youtube.com/@veaxvoid/videos">
+<img src="https://img.shields.io/youtube/channel/views/UCT0YI14vECRjM4A8dc4d5Ww" ></a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ivanvoid&style=flat-square&color=blue" alt=""/>
