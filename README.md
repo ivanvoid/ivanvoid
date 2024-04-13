@@ -1,5 +1,5 @@
 ## Projects Showcase
-Check my [blog.](https://ivanvoid.github.io/voidlog.github.io/) 
+Check my [BLOG](https://ivanvoid.github.io/voidlog.github.io/) 
 |Repository|Preview|Description|
 |-|-|-|
 |[Holo-Hilbert spectral analysis ](https://github.com/ivanvoid/HHSA)| <div align="center"><img src="https://github.com/ivanvoid/HHSA/blob/master/github/psd_signal*noise.png" width="200"/><img src="https://github.com/ivanvoid/HHSA/blob/master/github/psd_signal+noise.png" width="200"/></div>| Impementation of Holo-Hilbert spectral analysis for signal processing in python |
