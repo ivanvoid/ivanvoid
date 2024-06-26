@@ -5,8 +5,9 @@
 |<div align="center"> [Tiny Pascal Segmantation](https://github.com/ivanvoid/TinyPascalSegmantation/tree/main) <br /> <img src="https://github.com/ivanvoid/TinyPascalSegmantation/blob/main/configs/results.png?raw=true" height="200"/> <br /> Semantic segmentation for Pascal dataset </div>|<div align="center"> [Evolutionary Hidden Markov models for music generation](https://github.com/ivanvoid/MusicEA) <br /> <img src="https://github.com/ivanvoid/MusicEA/blob/master/output/stat_gen500_hid128/stat_gen500_hid128_state7469.png?raw=true" height="200"/> <br /> Evolutionary Hidden Markov models for music generaton </div>|
 |<div align="center"> [Image-sort](https://github.com/ivanvoid/Image-sort) <br /> <img src="https://github.com/ivanvoid/Image-sort/raw/master/.github/info.gif" height="200"/> <br /> Pixel sort </div>|<div align="center"> <br /> <br /> </div>|
 
-Info:
+Contacts:
 - 📫 caxaev95@gmail.com
+- 📘 [linkedin](https://www.linkedin.com/in/ivan-kakhaev/)
 
 <div id="header" align="center">
 <a href="https://stackoverflow.com/users/9559655/flinck-clissan">
